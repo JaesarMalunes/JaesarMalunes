@@ -48,61 +48,68 @@ I enjoy working across different layers of technology — from designing interfa
 <tr>
 <td width="50%">
 
-### 👁️ EyeScreeningAI
-An Explainable AI preliminary screening prototype exploring systemic disease indicators through multi-region eye images.
+### 🌐 JPG Services Portal
 
-**Focus:** Computer Vision · Deep Learning · XAI
+The official website for the Junior Programmers Group (JPG) of NDDU, providing access to organizational services, resources, and digital initiatives.
+
+🔗 [jpg-services.nddu.edu.ph](https://jpg-services.nddu.edu.ph)
+
+**Focus:** Web Development · Organizational Digital Services
 
 </td>
 <td width="50%">
 
-### 🔐 Vaultly
-An offline-first AI-assisted file explorer focused on local file search, privacy, and intelligent retrieval.
+### 🌐 JPIA Website
 
-**Focus:** Rust · Tauri · Local AI
+The official website of the Junior Philippine Institute of Accountants (JPIA) at NDDU, supporting the organization's digital presence and information accessibility.
+
+🔗 [jpia.nddu.edu.ph](https://jpia.nddu.edu.ph)
+
+**Focus:** Web Development · Digital Presence
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🗳️ NDDU-COMELEC
-An election management and voting platform developed for institutional election operations.
+### 🏫 Student Violation Monitoring System
 
-**Focus:** React · Node.js · SQLite
+A digital monitoring system developed for the school's Conduct Office to support the management, recording, and monitoring of student violations.
+
+**Focus:** System Development · Database Management · Digital Workflow
 
 </td>
 <td width="50%">
 
+### 🗳️ NDDU-COMELEC
+
+An election management and voting platform developed to support institutional election operations, voter management, and election processes.
+
+**Focus:** Full-Stack Development · Election Management
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 📱 JPG Attendance
-A mobile-oriented attendance application designed for organizational attendance management.
+
+A mobile-oriented attendance application designed to streamline attendance tracking and organizational member management.
 
 **Focus:** Mobile Development · Application Design
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🏢 Primeway
-A business-oriented application project focused on digital workflows and operational processes.
 
-**Focus:** Full-Stack Development
+A business-oriented application project focused on digitizing workflows and operational processes through software solutions.
 
-</td>
-<td width="50%">
-
-### 🌐 Developer Portfolio
-My personal portfolio showcasing projects, development experience, technical interests, and deployed applications.
-
-**Focus:** React · TypeScript · Deployment
+**Focus:** Full-Stack Development · Business Applications
 
 </td>
 </tr>
 </table>
-
----
-
 ### 📊 GitHub Statistics
 
 <p align="center">
